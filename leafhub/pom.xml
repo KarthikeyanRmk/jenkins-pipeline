@@ -7,7 +7,6 @@
 	<groupId>com.testleaf</groupId>
 	<artifactId>leafhub</artifactId>
 	<version>1.2</version>
-
 	<name>leafhub</name>
 	<description>Learning Hub Application</description>
 
